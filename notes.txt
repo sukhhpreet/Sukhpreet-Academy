@@ -1,0 +1,3 @@
+hi , this is sukhpreet!
+i am a 2nd year student pursuing b.tech in cse (ds).
+this is my journey of learning git.
